@@ -1358,7 +1358,7 @@
     "webpack" "^4.0.0"
     "yorkie" "^2.0.0"
 
-"@vue/cli-plugin-router@^4.5.16":
+"@vue/cli-plugin-router@^4.5.16", "@vue/cli-plugin-router@~4.5.0":
   "integrity" "sha512-aaroSwzSXo/2TNG7MFa6hyQMfXGqehvpdnZazTEn2N3Q1jxI/1jjeDEjXjA9mkgiBG7fY09ykRw1ORwEx9kScQ=="
   "resolved" "https://registry.npmmirror.com/@vue/cli-plugin-router/-/cli-plugin-router-4.5.16.tgz"
   "version" "4.5.16"
@@ -8560,6 +8560,11 @@
   "integrity" "sha512-uKNKpFOVeWNqS2mrBZqnpLyXJo5Q+vnkex6JvpENvhXHFNBW/SJTP8vJywLuVT3DpxwXcF9N0dyIiZ4/NpTexQ=="
   "resolved" "https://registry.npmmirror.com/vue-ref/-/vue-ref-2.0.0.tgz"
   "version" "2.0.0"
+
+"vue-router@^3.5.3":
+  "integrity" "sha512-FUlILrW3DGitS2h+Xaw8aRNvGTwtuaxrRkNSHWTizOfLUie7wuYwezeZ50iflRn8YPV5kxmU2LQuu3nM/b3Zsg=="
+  "resolved" "https://registry.npmmirror.com/vue-router/-/vue-router-3.5.3.tgz"
+  "version" "3.5.3"
 
 "vue-style-loader@^4.1.0", "vue-style-loader@^4.1.2":
   "integrity" "sha512-sFuh0xfbtpRlKfm39ss/ikqs9AbKCoXZBpHeVZ8Tx650o0k0q/YCM7FRvigtxpACezfq6af+a7JeqVTWvncqDg=="
